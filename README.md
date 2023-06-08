@@ -1,6 +1,6 @@
 [![MasterHead](https://www.lse.ac.uk/statistics/assets/Images/General/DS-image.jpg)](https://ananyatiwari18.io)
 <h1 align="center">Hi 👋, I'm Ananya Tiwary</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Data Scientist</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyatiwari18&label=Profile%20views&color=0e75b6&style=flat" alt="ananyatiwari18" /> </p>
