@@ -1,4 +1,4 @@
-[![MasterHead](https://www.dunebook.com/wp-content/uploads/2023/04/mern.png)](https://ananyatiwari18.io)
+[![MasterHead](https://codequality.us/wp-content/uploads/2023/11/KB-MERN-Featured.jpg)](https://ananyatiwari18.io)
 <h1 align="center">Hi 👋, I'm Ananya Tiwary</h1>
 <h3 align="center">MERN Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif">
